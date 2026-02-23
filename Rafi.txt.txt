@@ -1,6 +1,5 @@
 fghjrtrt
 uhliuil
 po'ui;
-Id 23-52274-2
-name : Rafi
-section g
+name rafi
+id 23-52274-2
